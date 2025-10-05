@@ -30,8 +30,6 @@
 
 ## 开发
 
-![wakatime](https://wakatime.com/badge/user/7a140cd9-36a4-4961-9e56-2b0b3fd6349e.svg?style=flat-square)
-
 - 我主要使用的编程语言：<br/>
   ![Static Badge](https://img.shields.io/badge/C%23-%23339933?style=flat-square&logo=.NET&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/C++-%20?style=flat-square&logo=cplusplus&logoColor=white&color=3178C6)
