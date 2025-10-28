@@ -10,7 +10,7 @@
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
-![ClassIsBand's GitHub stats](https://github-readme-stats-q2zk.vercel.app/api?username=belugaQAQ&theme=dracula)
+![ClassIsBand's GitHub stats](https://streak-stats.demolab.com/?user=belugaQAQ&theme=dracula)
 ![ClassIsBand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=belugaQAQ&theme=dracula&hide_border=true)
 
 <details>
