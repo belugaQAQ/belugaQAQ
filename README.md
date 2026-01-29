@@ -28,6 +28,8 @@
   <br/>
   StickyHomeworks2 是一款支持富文本的桌面作业贴工具
 
+- **[belugaQAQ/CamilaChineseWiki ![Stars](https://img.shields.io/github/stars/belugaQAQ/CamilaChineseWiki?label=Stars)](https://github.com/belugaQAQ/CamilaChineseWiki/)**
+
 ## 开发
 
 - 我主要使用的编程语言：<br/>
