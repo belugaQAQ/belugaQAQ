@@ -8,8 +8,72 @@
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=belugaQAQ&theme=dracula&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek)
-![Top Languages](https://ghstats.dev/api/langs?username=belugaQAQ&theme=tokyonight)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=belugaQAQ&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek&theme=catppuccin)
+![Top Languages](https://ghstats.dev/api/langs?username=belugaQAQ&theme=catppuccin)
+
+<details>
+  <summary>更多信息…</summary>
+  
+<table>
+        <tr>
+            <th>项目</th>
+            <th>规格</th>
+        </tr>
+        <tr>
+            <td>设备</td>
+            <td>小米迷你主机</td>
+        </tr>
+        <tr>
+            <td>笔记本</td>
+            <td>否</td>
+        </tr>
+        <tr>
+            <th colspan="2">硬件配置</th>
+        </tr>
+        <tr>
+            <td>主板</td>
+            <td>Intel NUC12WSKi3</td>
+        </tr>
+        <tr>
+            <td>CPU型号</td>
+            <td>Intel Core i5-1240P</td>
+        </tr>
+        <tr>
+            <td>CPU核心数</td>
+            <td>12核/16线程</td>
+        </tr>
+        <tr>
+            <td>CPU频率</td>
+            <td>基础频率1.7GHz/最大睿频4.4GHz</td>
+        </tr>
+        <tr>
+            <td>内存类型</td>
+            <td>DDR4 (SO-DIMM 双插槽)</td>
+        </tr>
+        <tr>
+            <td>内存频率</td>
+            <td>3200MHz</td>
+        </tr>
+        <tr>
+            <td>内存容量</td>
+            <td>16GB</td>
+        </tr>
+        <tr>
+            <td>显卡型号</td>
+            <td>Intel Iris Xe Graphics)</td>
+        </tr>
+        <tr>
+            <td>显存</td>
+            <td>共享系统内存</td>
+        </tr>
+        <tr>
+            <td>预装操作系统</td>
+            <td>Windows 11/Arch Linux</td>
+        </tr>
+    </table>
+            
+</details>
+
 ## 项目
 
 我创建的/我主要参与的项目：
