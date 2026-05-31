@@ -1,6 +1,6 @@
 <div align="center" >
 <h1>欢迎 👋 这里是ClassIsBand</h1>
-一个初中在读学生，我喜欢写一些有意思的小东西。
+一个初中在读学生，喜欢写一些有意思的小东西。
 <br/><br/>
 <img width="2048" height="819" alt="result_ChatGPT Image 2026年5月31日 13_58_58" src="https://github.com/user-attachments/assets/f4ecd34c-8150-474d-8960-3783d14ae889" />
 
@@ -8,8 +8,8 @@
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
-![ClassIsBand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=belugaQAQ&theme=dracula&hide_border=true)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=belugaQAQ&theme=dracula&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek)
+![Top Languages](https://ghstats.dev/api/langs?username=belugaQAQ&theme=tokyonight)
 ## 项目
 
 我创建的/我主要参与的项目：
