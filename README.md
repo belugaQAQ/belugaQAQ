@@ -1,23 +1,14 @@
-## 欢迎 👋
-
-<img src="https://i1.hdslb.com/bfs/article/0b1903e9a6b4b433e0a3ba2211fe6961383621883.gif@640w_640h.avif"
-    width="85"
-    alt="牛肉摇摆"/>
-
-我是ClassIsBand，一个初中在读学生，我喜欢写一些有意思的小东西。
+<div align="center" >
+<h1>欢迎 👋 这里是ClassIsBand</h1>
+一个初中在读学生，我喜欢写一些有意思的小东西。
+<br/><br/>
+<img width="2048" height="819" alt="result_ChatGPT Image 2026年5月31日 13_58_58" src="https://github.com/user-attachments/assets/f4ecd34c-8150-474d-8960-3783d14ae889" />
 
 ## 总览
 
 ![](profile-3d-contrib/profile-night-green.svg)
 
 ![ClassIsBand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=belugaQAQ&theme=dracula&hide_border=true)
-
-<details>
-  <summary>更多信息…</summary>
-
-![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=BelugaQAQ)
-![trophy](https://github-profile-trophy.vercel.app/?username=BelugaQAQ)
-</details>
 
 ## 项目
 
@@ -46,3 +37,4 @@
 - QQ ：2441500679
 - 电子邮件（QQ）：<2441500679@qq.com>
 - 电子邮件（其它）：<tb20121013@outlook.com>
+</div>
