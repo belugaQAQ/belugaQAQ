@@ -2,7 +2,8 @@
 <h1>欢迎 👋 这里是ClassIsBand</h1>
 一个初中在读学生，喜欢写一些有意思的小东西。
 <br/><br/>
-<img width="2048" height="819" alt="result_ChatGPT Image 2026年5月31日 13_58_58" src="https://github.com/user-attachments/assets/f4ecd34c-8150-474d-8960-3783d14ae889" />
+<img width="1920" height="1080" alt="Slide 16_9 - 1" src="https://github.com/user-attachments/assets/a73f264d-a64b-4675-9b98-7623e53ca18a" />
+
 
 ## 总览
 
