@@ -2,7 +2,9 @@
 <h1>欢迎 👋 这里是ClassIsBand</h1>
 一个初中在读学生，喜欢写一些有意思的小东西。
 <br/><br/>
-<img width="1920" height="1080" alt="Slide 16_9 - 1" src="https://github.com/user-attachments/assets/a73f264d-a64b-4675-9b98-7623e53ca18a" />
+<img width="1920" height="1080" alt="Slide 16_9 - 1 (2)" src="https://github.com/user-attachments/assets/0d4b173f-1d8c-4766-8112-f8d36eaf4ea1" />
+
+
 
 
 ## 总览
