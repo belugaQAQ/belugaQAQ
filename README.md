@@ -1,4 +1,3 @@
-<div align="center" >
 <h1>欢迎 👋 这里是ClassIsBand</h1>
 一个初中在读学生，喜欢写一些有意思的小东西。
 <br/><br/>
@@ -7,8 +6,6 @@
 
 
 ## 总览
-
-![](profile-3d-contrib/profile-night-green.svg)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=belugaQAQ&hide=stars%2Cstreak%2Chours%2Cgrade%2Ctrend%2Cavg%2Cactive_day%2Cfollowers%2Cweek&theme=catppuccin)
 ![Top Languages](https://ghstats.dev/api/langs?username=belugaQAQ&theme=catppuccin)
@@ -103,4 +100,3 @@
 - QQ ：2441500679
 - 电子邮件（QQ）：<2441500679@qq.com>
 - 电子邮件（其它）：<tb20121013@outlook.com>
-</div>
