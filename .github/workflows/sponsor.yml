@@ -1,7 +1,12 @@
 name: Sponsor
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:      # 保留手动触发
+  schedule:
+    - cron: '0 0 * * *'   # 每天 UTC 0 点自动运行
+
+permissions:
+  contents: write
 
 jobs:
   build-and-run:
@@ -10,27 +15,27 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Ensure svg directory exists
+        run: mkdir -p svg
+
       - name: Run ifdian-sponsor action
         uses: Sn0wo2/afdian-sponsor@v1
         with:
-          # Optional(default values)
           version: latest
           cache: true
         env:
           # Required
           # Get User ID and API Token from https://ifdian.net/dashboard/dev
-          # And add them to your github secrets(https://github.com/$your-user-name/$your-repo/settings/secrets/actions/new)
+          # And add them to your github secrets
           AFDIAN_USER_ID: ${{ secrets.AFDIAN_USER_ID }}
           AFDIAN_API_TOKEN: ${{ secrets.AFDIAN_API_TOKEN }}
 
           # Optional(default values)
-          AFDIAN_OUTPUT: ./afdian-sponsor.svg
+          AFDIAN_OUTPUT: ./svg/afdian-sponsor.svg
           AFDIAN_TOTAL_SPONSORS: 100
           AFDIAN_AVATAR_SIZE: 100
           AFDIAN_MARGIN: 15
           AFDIAN_AVATARS_PER_ROW: 15
-          # Google Fonts CSS2 family value, e.g. "Noto Sans SC:wght@100..900" (default) or "ZCOOL QingKe HuangYou"
-          # When set, the action fetches the matching font itself and hands it to the binary via AFDIAN_FONT_FILE;
           AFDIAN_FONT_FAMILY: Noto Sans SC:wght@100..900
           AFDIAN_FONT_FILE: ./font.ttf
           AFDIAN_FONTSIZE_SCALE: 8
@@ -38,8 +43,20 @@ jobs:
           AFDIAN_PADDINGY_SCALE: 4
           AFDIAN_SORT: time
 
-      - name: Upload generated SVG
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add svg/afdian-sponsor.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update afdian sponsor svg"
+            git push
+          fi
+
+      - name: Upload generated SVG (artifact)
         uses: actions/upload-artifact@v4
         with:
           name: afdian-sponsor-svg
-          path: afdian-sponsor.svg
+          path: svg/afdian-sponsor.svg
